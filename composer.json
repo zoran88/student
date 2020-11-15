@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Classes\\Lib\\": "Classes",
+            "Classes\\Lib\\Base\\": "Classes/Base"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    }
+}
